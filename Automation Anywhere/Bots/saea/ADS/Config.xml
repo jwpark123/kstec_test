@@ -1,0 +1,12 @@
+<Config>
+	<sPathFileDrop>C:\Sae-A PoC 2\In</sPathFileDrop>
+	<sPathLog>C:\Sae-A PoC 2\Log</sPathLog>
+	<sSearchText>Supplier Quote</sSearchText>
+  	<sQuoteID>14751008</sQuoteID>
+    <sSelectPack>Inner Pack</sSelectPack>
+    <sSelectPackType>POLYBAG</sSelectPackType>
+    <sUOMQty>1</sUOMQty>
+    <sUOMCode>EA EACH</sUOMCode>
+</Config>
+
+
